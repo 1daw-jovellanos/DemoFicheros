@@ -1,0 +1,20 @@
+package _04b_serializacion_xstream;
+
+public class Alumno implements java.io.Serializable {
+    private String nombre;
+    private double nota;
+
+    public Alumno(String nombre, double nota) {
+        this.nombre = nombre;
+        this.nota = nota;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public double getNota() {
+        return nota;
+    }
+    
+}
