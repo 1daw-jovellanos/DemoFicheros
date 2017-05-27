@@ -1,4 +1,4 @@
-package _03a_Binario_secuencial;
+package _03_binario_aleatorio;
 
 
 public class Alumno {

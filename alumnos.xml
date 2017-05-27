@@ -1,0 +1,26 @@
+<list>
+  <alumno>
+    <nombre>Pepe</nombre>
+    <nota>5.23</nota>
+  </alumno>
+  <alumno>
+    <nombre>Lucas</nombre>
+    <nota>6.6</nota>
+  </alumno>
+  <alumno>
+    <nombre>Carmela</nombre>
+    <nota>8.8</nota>
+  </alumno>
+  <alumno>
+    <nombre>Lucrecia</nombre>
+    <nota>4.43</nota>
+  </alumno>
+  <alumno>
+    <nombre>Marco Aurelio Encarnación de todos los Santos</nombre>
+    <nota>2.23</nota>
+  </alumno>
+  <alumno>
+    <nombre>Margarita María</nombre>
+    <nota>4.2</nota>
+  </alumno>
+</list>

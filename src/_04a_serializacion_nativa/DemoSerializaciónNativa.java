@@ -61,6 +61,7 @@ public class DemoSerializaciónNativa {
      * Es necesario hacer un typecast, que puede generar una
      * ClassCastException
      */
+    @SuppressWarnings("unchecked")
     public void leerUnRegistro() {
         Scanner in = new Scanner(System.in);
         ObjectInputStream ois = null;
